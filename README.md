@@ -1,16 +1,13 @@
-### Hi there 👋
+### salve,bem vindo ao meu perfil🧊
 
-<!--
-**viiniciush/viiniciush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é vinicius Henrique 
 
-Here are some ideas to get you started:
+-estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou começando agora e me desenvolvendo na linguagem JavaScript;
+
+### contato📬
+
+00001105319970sp@al.educacao.sp.gov.br
+
+![]("https://media1.tenor.com/m/8FCztZxQ4iEAAAAC/%C3%A9umhomemestilosoderespeito.gif")
